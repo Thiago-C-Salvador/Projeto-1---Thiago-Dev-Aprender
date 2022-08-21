@@ -1,1 +1,2 @@
-Aqui é o primeiro teste de acesso com documentos com linhas de texto
+Aqui é o primeiro teste de acesso com documentos com linhas de texto.
+Eu inseirir uma nova linha.

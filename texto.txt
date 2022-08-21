@@ -1,4 +1,8 @@
 Aqui é o primeiro teste de acesso com documentos com linhas de texto.
 Eu inseirir uma nova linha.
+<<<<<<< HEAD
 Meu nome é Thiago Candido Salvador
 Modificção para testar versionamento.
+=======
+Meu nome é Thiago Candido
+>>>>>>> 1d8ac281016cd9b1957042d0515b7b51cc0acfec
